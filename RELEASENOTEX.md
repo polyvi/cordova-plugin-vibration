@@ -20,3 +20,14 @@
 -->
 # Release Note X
 
+
+### 0.3.6 Wed Jan 08 2014 15:15:40 GMT+0800 (CST)
+ *  added releasenotex.md
+ *  CB-5719 Updated version and RELEASENOTES.md for release 0.3.6
+ *  CB-5658 Update license comment formatting of doc/index.md
+ *  CB-5658 Add doc.index.md for Vibration plugin
+ *  CB-5658 Delete stale snapshot of plugin docs
+ *  [CB-5565] Incremented plugin version on dev branch.
+ *  [CB-5565] Updated version and RELEASENOTES.md for release 0.3.5
+ *  add ubuntu platform
+ *  Added amazon-fireos platform. Change to include amazon-fireos as a platform if the user agent string contains 'cordova-amazon-fireos'
